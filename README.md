@@ -33,19 +33,13 @@ Meu nome é **Yasmin Kaline**, sou desenvolvedora Back-end e trabalho com Inteli
 
 
 ### **Conteúdos que venho estudando:** 
- <div>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white "/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white "/>
+
 
 
 
 
 ### **GitHub Status**
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ka1ine&theme=default&line)](https://github.com/Ka1ine?tab=repositories)![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ine&theme=default&line)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ka1ine&theme=tokyonight)](https://github.com/Ka1ine?tab=repositories)![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ine&theme=tokyonight)
 ### **Minhas redes**
 
 
