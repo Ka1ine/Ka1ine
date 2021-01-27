@@ -39,7 +39,10 @@ Meu nome é **Yasmin Kaline**, sou desenvolvedora Back-end e trabalho com Inteli
 
 
 ### **GitHub Status**
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ka1ine&theme=tokyonight)](https://github.com/Ka1ine?tab=repositories)![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ine&theme=tokyonight)
+![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=Ka1ine&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)
+![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ine&layout=compact&hide=php&hide_border=true)
+
+
 ### **Minhas redes**
 
 
