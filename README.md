@@ -1,6 +1,6 @@
 ## **Oioi** <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/source.gif" widht=0px height=80px/>
 
-Meu nome é **Yasmin Kaline**, sou desenvolvedora Back-end e trabalho com Inteligência Artificial. 
+Meu nome é **Yasmin Kaline** atualmente aluno do terceiro ano de eletrônica 🏫 e desenvolvedora de software💻. Trabalhar com Inteligência Artificial em ChatBots e atualmente aprendendo sobre programação mobile. Ocasionalmente, participo de Hackathons💡 e eventos de tecnologia.
 
 
 ### Skill set:
@@ -39,7 +39,7 @@ Meu nome é **Yasmin Kaline**, sou desenvolvedora Back-end e trabalho com Inteli
 
 
 ### **GitHub Status**
-![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=Ka1ine&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)
+![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=Ka1ine&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)<br>
 ![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ine&layout=compact&hide=php&hide_border=true)
 
 
