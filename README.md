@@ -1,12 +1,12 @@
-## **Oioi** <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/source.gif" widht=0px height=80px/>
+## **Hi** <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/source.gif" widht=0px height=80px/>
 
-Meu nome é **Yasmin Kaline** atualmente aluno do terceiro ano de eletrônica 🏫 e desenvolvedora de software💻. Trabalhar com Inteligência Artificial em ChatBots e atualmente aprendendo sobre programação mobile. Ocasionalmente, participo de Hackathons💡 e eventos de tecnologia.
+My name is **Yasmin Kaline** currently a third year student of the technical course in Electronics 🏫 and software developer💻. Work with Artificial Intelligence in ChatBots and currently learning about mobile programming. Occasionally, I participate in Hackathons💡 and technology events.
 
-
-### Skill set:
+<hr>
+### Tools & Technologies:
 
 <p align="left">
-<img src="https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png" height="auto" width="40">
+<img src="https://www.python.org" height="auto" width="40">
 
 <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/01/14174904/kotlin.png" eight="auto" width="40">
 
@@ -31,18 +31,18 @@ Meu nome é **Yasmin Kaline** atualmente aluno do terceiro ano de eletrônica �
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
 </p>
 
-
+<hr>
 ### **Conteúdos que venho estudando:** 
 
 
 
 
-
-### **GitHub Status**
+<hr>
+### **Statistics and Languages**
 ![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=Ka1ine&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)<br>
 ![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ine&layout=compact&hide=php&hide_border=true)
 
-
+<hr>
 ### **Minhas redes**
 
 
