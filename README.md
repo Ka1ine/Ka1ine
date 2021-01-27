@@ -2,7 +2,7 @@
 
 My name is **Yasmin Kaline** currently a third year student of the technical course in Electronics 🏫 and software developer💻. Work with Artificial Intelligence in ChatBots and currently learning about mobile programming. Occasionally, I participate in Hackathons💡 and technology events.
 
-<hr>
+
 ### Tools & Technologies:
 
 <p align="left">
@@ -31,18 +31,18 @@ My name is **Yasmin Kaline** currently a third year student of the technical cou
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
 </p>
 
-<hr>
+
 ### **Conteúdos que venho estudando:** 
 
 
 
 
-<hr>
+
 ### **Statistics and Languages**
 ![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=Ka1ine&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)<br>
 ![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ine&layout=compact&hide=php&hide_border=true)
 
-<hr>
+
 ### **Minhas redes**
 
 
