@@ -1,33 +1,51 @@
-<h3 align="center">Redes Sociais</h3>
-<p align="center">
-  <a href= "https://www.linkedin.com/in/yasmin-kaline/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "yasminkaline73@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
+## **Oioi** <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/source.gif" widht=0px height=80px/>
+
+Meu nome é **Yasmin Kaline**, sou desenvolvedora Back-end e trabalho com Inteligência Artificial. 
+
+
+### Skill set:
+
+<p align="left">
+<img src="https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png" height="auto" width="40">
+
+<img src="https://dkrn4sk0rn31v.cloudfront.net/2018/01/14174904/kotlin.png" eight="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
 </p>
 
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=kaizoku-oh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaizoku-oh" />
-  </a>
-  <p>
-    <img src="https://views.whatilearened.today/views/github/kaizoku-oh/views.svg"/>
-    <a href="https://github.com/kaizoku-oh/"><img src="https://img.shields.io/github/followers/kaizoku-oh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-    <a href="https://github.com/kaizoku-oh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
-    <a href="mailto:garssallaoui.bayrem@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
-    <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
-  </p>
-</p>
-<br/><br/>
 
-<!--
-**kaizoku-oh/kaizoku-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### **Conteúdos que venho estudando:** 
+ <div>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "/>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white "/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white "/>
 
-- 🔭 I’m currently working on embedded systems, mainly programming and connecting tiny devices to the internet
-- 🌱 I’m currently learning python and docker
-- 👯 I’m looking to collaborate on IoT projects
-- 💬 Ask me anything about IoT solutions and connecting devices to the cloud
-- 📫 How to reach me: you can reach me from the social media links above
-- 😄 Pronouns: he/him
-- ⚡ Languages: C, Python, Java
+
+
+
+### **GitHub Status**
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ka1ine&theme=default&line)](https://github.com/Ka1ine?tab=repositories)![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ine&theme=default&line)
+### **Minhas redes**
+
+
