@@ -6,12 +6,15 @@ My name is **Yasmin Kaline** currently a third year student of the technical cou
 ### Tools & Technologies:
 
 <p align="left">
-
+<img src="https://miro.medium.com/max/361/1*9bXq5Ti9WulFZwCBnCYSyQ.png" height="auto" width="40">
+  
 <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/01/14174904/kotlin.png" eight="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
+
+<img src="https://jbossdivers.files.wordpress.com/2011/09/java.jpg?w=705" height="auto" width="40">
 
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
