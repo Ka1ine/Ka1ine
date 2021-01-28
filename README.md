@@ -16,9 +16,7 @@ My name is **Yasmin Kaline** currently a third year student of the technical cou
 
 <img src="https://jbossdivers.files.wordpress.com/2011/09/java.jpg?w=705" height="auto" width="40">
 
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCjo0snKU_lDDewnE0aMYnU7nAudyEP9syw&usqp=CAU" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
 
@@ -28,17 +26,24 @@ My name is **Yasmin Kaline** currently a third year student of the technical cou
 </p>
 
 
-### **Conteúdos que venho estudando:** 
+### **Studying:** 
+
+<p align="left">
+<img src="https://www.celsonunes.com.br/wp-content/uploads/2018/06/Android_Studio_icon.svg_.png" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+</p>
 
 
 
-
-
-### **Statistics and Languages**
+### **Statistics and Languages:**
 ![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=Ka1ine&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)<br>
 ![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ine&layout=compact&hide=php&hide_border=true)
+<p align="center">
 
-
-### **Minhas redes**
-
-
+<hr/>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/yasmin-kaline/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/ka1ine/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
+</p>
+</p>
