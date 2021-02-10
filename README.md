@@ -23,6 +23,13 @@ My name is **Yasmin Kaline** currently a third year student of the technical cou
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+
+<img src="https://w7.pngwing.com/pngs/241/983/png-transparent-mongodb-nosql-database-computer-icons-others-leaf-grass-fruit.png" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="auto" width="40">
+
+<img src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-iacute-cone-da-linguagem-de-programa-ccedil-atilde-o-c-by-vexels.png" height="auto" width="40">
+<img src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" height="auto" width="40">
 </p>
 
 
@@ -31,6 +38,7 @@ My name is **Yasmin Kaline** currently a third year student of the technical cou
 <p align="left">
 <img src="https://www.celsonunes.com.br/wp-content/uploads/2018/06/Android_Studio_icon.svg_.png" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://going2.com.br/images/icons/flutter-icon.png" height="auto" width="40">
 </p>
 
 
