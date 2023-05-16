@@ -14,12 +14,9 @@ My name is **Yasmin Kaline**, I'm 19 years old and I'm studying **Control and Au
 
 ### Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ka1ine&show_icons=true&hide_border=true&hide=&theme=vue" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://streak-stats.demolab.com?user=ka1ine&theme=vue&hide_border=true&card_width=400" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka1ine&&hide=HTML,CSS&layout=donut&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ka1ine&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400)](https://git.io/streak-stats)
+
 
 <hr/>
 <h3 align="center">Connect with me</h3>
