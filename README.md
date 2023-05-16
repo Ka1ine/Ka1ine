@@ -15,12 +15,8 @@ My name is **Yasmin Kaline**, I'm 19 years old and I'm studying **Control and Au
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka1ine&&hide=HTML,CSS,Java&layout=donut&hide_border=true&theme=vue)](https://github.com/ka1ine/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ka1ine&theme=vue&hide_border=true&mode=weekly&card_width=450)](https://git.io/streak-stats)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-kaline/)
 
-<hr/>
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/yasmin-kaline/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/ka1ine/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
-</p>
-</p>
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-kaline/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ka1ine/)
