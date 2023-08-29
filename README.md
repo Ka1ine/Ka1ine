@@ -14,7 +14,7 @@ My name is **Yasmin Kaline**, I'm 20 years old and I'm studying **Control and Au
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka1ine&&hide=HTML,CSS,Dockerfile&layout=donut&hide_border=true&theme=vue)](https://github.com/ka1ine/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ka1ine&theme=vue&hide_border=true&mode=weekly&card_width=450)](https://git.io/streak-stats)
-<hr>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ### Connect with me:
 
