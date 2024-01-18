@@ -1,7 +1,7 @@
 # **Hi!** <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 
-My name is **Yasmin Kaline**, I'm 20 years old and I'm studying **Control and Automation Engineering** at Unicamp 📚. I participate in the **Apple Developer Academy** 🍎 program where I mainly develop iOS applications. I dedicate myself whenever possible to the **ICPC (International Collegiate Programming Contest)** 👩‍💻.
+My name is **Yasmin Kaline**, I'm 20 years old and I'm studying **Control and Automation Engineering** at Unicamp 📚. I participate in the **Apple Developer Academy** 🍎 program where I mainly develop iOS applications.
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
